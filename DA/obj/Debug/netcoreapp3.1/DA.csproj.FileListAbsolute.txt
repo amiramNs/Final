@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Final\DA\bin\Debug\netcoreapp3.1\DA.deps.json
+C:\Users\asus\source\repos\Final\DA\bin\Debug\netcoreapp3.1\DA.runtimeconfig.json
+C:\Users\asus\source\repos\Final\DA\bin\Debug\netcoreapp3.1\DA.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Final\DA\bin\Debug\netcoreapp3.1\DA.dll
+C:\Users\asus\source\repos\Final\DA\bin\Debug\netcoreapp3.1\DA.pdb
+C:\Users\asus\source\repos\Final\DA\obj\Debug\netcoreapp3.1\DA.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Final\DA\obj\Debug\netcoreapp3.1\DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Final\DA\obj\Debug\netcoreapp3.1\DA.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Final\DA\obj\Debug\netcoreapp3.1\DA.AssemblyInfo.cs
+C:\Users\asus\source\repos\Final\DA\obj\Debug\netcoreapp3.1\DA.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Final\DA\obj\Debug\netcoreapp3.1\DA.dll
+C:\Users\asus\source\repos\Final\DA\obj\Debug\netcoreapp3.1\DA.pdb
+C:\Users\asus\source\repos\Final\DA\obj\Debug\netcoreapp3.1\DA.genruntimeconfig.cache
